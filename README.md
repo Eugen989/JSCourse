@@ -48,5 +48,7 @@ git push origin ваша-ветка
 Контакты
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь с разработчиком:
 
-Почта
-kruglikeugen@gmail.com
+Контактная информация
+Автор: [Евгений]
+GitHub: [https://github.com/Eugen989/JSCourse]
+Email: [kruglikeugen@gmail.com]
